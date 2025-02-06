@@ -1,0 +1,15 @@
+.btn-pink {
+    background-color: #e83e8c; 
+    color: #fff;               
+    border: none;             
+  }
+  
+  .btn-pink:hover {
+    background-color: #d63384; 
+  }
+  
+.bg-pink {
+  background-color: pink;
+}
+
+  
